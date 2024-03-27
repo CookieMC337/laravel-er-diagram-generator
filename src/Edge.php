@@ -1,12 +1,12 @@
 <?php
 
-namespace BeyondCode\ErdGenerator;
+namespace CookieMC337\ErdGenerator;
 
 use phpDocumentor\GraphViz\Node;
 
 /**
  * Class Edge
- * @package BeyondCode\ErdGenerator
+ * @package CookieMC337\ErdGenerator
  * @method void setLabel(string $name)
  * @method void setXLabel(string $name)
  *
