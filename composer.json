@@ -46,7 +46,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BeyondCode\\ErdGenerator\\ErdGeneratorServiceProvider"
+                "BeyondCode\\CookieMC337\\ErdGeneratorServiceProvider"
             ]
         }
     }
