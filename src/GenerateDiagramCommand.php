@@ -1,8 +1,8 @@
 <?php
 
-namespace BeyondCode\ErdGenerator;
+namespace CookieMC337\ErdGenerator;
 
-use BeyondCode\ErdGenerator\Model as GraphModel;
+use CookieMC337\ErdGenerator\Model as GraphModel;
 use Illuminate\Console\Command;
 use Illuminate\Support\Collection;
 use phpDocumentor\GraphViz\Graph;
