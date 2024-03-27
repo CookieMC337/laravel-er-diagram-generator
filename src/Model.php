@@ -1,6 +1,6 @@
 <?php
 
-namespace BeyondCode\ErdGenerator;
+namespace CookieMC337\ErdGenerator;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
